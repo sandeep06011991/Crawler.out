@@ -1,0 +1,13 @@
+product|price|SP|value|supc|id|prodid
+ranbaxy-revital-men-60-capsules|1566|1240|-|-|-|2044715984
+now-foods-ultra-omega-3|7093|3298|-|-|-|1243640
+shivalik-herbals-bio-slim-weight|495|495|-|-|-|563898085
+organic-india-green-tulsi-green|1100|1100|-|-|-|749445228
+ranbaxy-revitalite-powder-200-g|490|457|-|-|-|254977
+natures-bounty-cholesterol-free-fish|1395|1235|-|-|-|429240
+ritebite-max-protein|600|590|Choco Fudge|SDL051245271|987000489|1827770598
+ritebite-max-protein-choco-fudge|600|581|Choco Fudge|SDL722171364|1507945143|1221118488
+health-aid-hairvit-90-capsules|1745|1288|-|-|-|1960303217
+glucerna-vanilla-500-gm|550|528|-|-|-|508306
+ensure-vanilla-1-kg-for|950|855|-|-|-|508308
+healthaid-omega-3-750mg-epa|1745|1162|-|-|-|713862696

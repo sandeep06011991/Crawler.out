@@ -1,0 +1,17 @@
+#!/usr/bin/python
+from twisted.internet import reactor
+from scrapy.crawler import Crawler
+from scrapy import log, signals
+from spiders.snap import snap
+from scrapy.settings import Settings
+import importlib
+settingsmodule=importlib.import_module('settings')
+spider = snap()
+settings=Settings.setmodule(settingsmodule)
+crawler = Crawler(settings)
+#crawler.signals.connect(reactor.stop, signal=signals.spider_closed)
+crawler.configure()
+crawler.crawl(spider)
+crawler.start()
+log.start()
+#reactor.run()
