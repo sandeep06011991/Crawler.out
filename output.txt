@@ -48,11 +48,12 @@ ultimate-nutrition-muscle-juice-revolution|6299|4976|Banana|SDL332160143|1189173
 ultimate-nutrition-muscle-juice-revolution|6299|4976|Chocolate|SDL340864195|1421469016|1857831677
 muscletech-nitrotech-4-lbs|8000|5355|Cookies n Cream|SDL617820934|133521158|761909
 muscletech-nitrotech-4-lbs|6400|4862|Vanilla|SDL435025648|1013771|761909
-muscletech-nitrotech-4-lbs|6400|4995|Chocolate|SDL402591645|1013762|761909
-ultimate-nutrition-muscle-juice-revolution|6299|4976|Vanilla|SDL327000937|952361533|1857831677
-muscletech-nitrotech-4-lbs|6400|5299|Strawberry|SDL420954491|1013769|761909
-ultimate-nutrition-prostar-100-whey|6749|5249|Rasberry|SDL098368291|1002222393|1205369031
-ultimate-nutrition-prostar-100-whey|6749|5249|Banana|SDL095550443|1304126094|1205369031
+muscletech-nitrotech-4-lbs|6400|4995|Chocolate|SDL402591645|101376olate|1731173|786006|590863
+muscle-tech-100-premium-whey|5950|3999|Deluxe Chocolate|SDL657000826|1000975982|590863
+muscle-tech-100-premium-whey|5950|4098|Vanila|1731174|786007|590863
+muscle-tech-100-premium-whey|6000|4104|Strawberry|SDL620051388|1657385572|590863
 universal-nutrition-gain-fast-3100|6000|4800|Strawberry|SDL112679379|1741704635|508332
-ultimate-nutrition-prostar-100-whey|6749|5249|Chocolate|SDL086765894|852027911|1205369031
-ultimate-nutrition-prostar-100-whey|6749|5249|Strawberry|SDL091711801|1256655652|1205369031
+universal-nutrition-gain-fast-3100|4800|3799|Chocolate|1628822|682424|508332
+universal-nutrition-gain-fast-3100|5800|4800|Vanilla|SDL114041554|149469052|508332
+bsn-syntha6|4790|4790|3 Lbs.|SDL079942263|1487406|1208649
+bsn-syntha6|7200|4897|5 Lbs.|SDL081187859|1487407|1208649
