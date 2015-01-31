@@ -48,11 +48,11 @@ muscle-tech-100-premium-whey|6400|3950|Chocolate|1731173|786006|590863
 dymatize-elite-whey-2-lbs|3299|2800|Chocolate|SDL361330178|382586177|1425762576
 dymatize-elite-whey-5-lbs|6399|5120|Gourmet Vanilla|SDL295240316|1018691719|623929
 dymatize-elite-whey-2-lbs|3299|2898|Rich Chocolate|SDL369826178|162914399|1425762576
-dyfast-3100|4800|3785|Chocolate|1628822|682424|508332
-universal-nutrition-gain-fast-3100|6000|4800|Strawberry|SDL112679379|1741704635|508332
-universal-nutrition-gain-fast-3100|5800|5200|Vanilla|SDL114041554|149469052|508332
-dymatize-elite-whey-5-lbs|7199|5040|Chocolate fudge|SDL300579326|1674314295|623929
-dymatize-elite-whey-5-lbs|6800|5050|Cookies \u0026 Cream|SDL298070423|1656205650|623929
-dymatize-elite-whey-5-lbs|6399|5120|Gourmet Vanilla|SDL295240316|1018691719|623929
 dymatize-elite-whey-5-lbs|6399|5000|Chocolate|1782160|838289|623929
+ultimate-nutrition-prostar-100-whey|11999|9551|Strawberry|SDL086376853|446997421|1710259655
 dymatize-elite-whey-5-lbs|7199|5040|Strawberry Blast|SDL295625156|615127311|623929
+muscletech-100-mass-gainer-12|6175|5693|Strawberry|SDL407642213|128978649|1412336
+muscletech-100-mass-gainer-12|6175|5740|Vanilla|SDL407375452|95654687|1412336
+muscletech-100-mass-gainer-12|7800|6490|Cookies \u0026 Cream|SDL407978254|466695961|1412336
+muscletech-100-mass-gainer-12|6450|5014|Chocolate|SDL265656804|1791752|1412336
+bsn-truemass|9000|9000|5.75 Lbs.|1852499|909530|673007
