@@ -48,10 +48,9 @@ muscletech-nitrotech-4-lbs|8000|5355|Cookies n Cream|SDL617820934|133521158|7619
 muscletech-nitrotech-4-lbs|6400|4862|Vanilla|SDL435025648|1013771|761909
 muscletech-nitrotech-4-lbs|6400|5280|Strawberry|SDL420954491|1013769|761909
 universal-nutrition-ultra-whey-pro|7725|6900|6.6 Lbs.|SDL143330756|1520368|1241131
-universal-nutrition-ultra-whey-pro|7000|5069|5 Lbs.|SDL142913036|1520376|1241131
-universal-nutrition-ultra-whey-pro|11500|9090|10 Lbs.|SDL143830180|1520399|1241131
-dymatize-elite-whey-2-lbs|3299|2898|Rich Chocolate|SDL369826178|162914399|1425762576
-dymatize-elite-whey-2-lbs|3449|2587|Strawberry|SDL377459267|1806602440|1425762576
-dymatize-elite-whey-2-lbs|3899|3509|Chocolate Fudge|SDL362898729|1118287220|1425762576
-dymatize-elite-whey-2-lbs|3299|2800|Chocolate|SDL361330178|382586177|1425762576
-dymatize-elite-whey-2-lbs|3299|3299|Gourmet Vanilla|SDL365638648|718870100|1425762576
+universal-nutrition-ultra-whey-pro|7000|5069|5 Lbntha6|4790|4790|3 Lbs.|SDL079942263|1487406|1208649
+ultimate-nutrition-muscle-juice-revolution|6299|5039|Strawberry|SDL337086842|1638608772|1857831677
+ultimate-nutrition-muscle-juice-revolution|6299|5039|Cookies|SDL316320104|1690088813|1857831677
+ultimate-nutrition-muscle-juice-revolution|6299|5039|Banana|SDL332160143|1189173675|1857831677
+ultimate-nutrition-muscle-juice-revolution|6299|5039|Chocolate|SDL340864195|1421469016|1857831677
+ultimate-nutrition-muscle-juice-revolution|6299|5039|Vanilla|SDL327000937|952361533|1857831677
