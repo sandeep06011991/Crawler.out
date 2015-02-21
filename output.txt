@@ -48,11 +48,10 @@ dymatize-elite-whey-2-lbs|3899|3509|Chocolate Fudge|SDL362898729|1118287220|1425
 ultimate-nutrition-prostar-100-whey|6749|5399|Chocolate|SDL086765894|852027911|1205369031
 dymatize-elite-whey-2-lbs|3499|2549|Gourmet Vanilla|SDL365638648|718870100|1425762576
 dymatize-elite-whey-2-lbs|3899|2495|Chocolate|SDL361330178|382586177|1425762576
-u4635|508332
-universal-nutrition-gain-fast-3100|5800|4224|Vanilla|SDL114041554|149469052|508332
-universal-nutrition-gain-fast-3100|5500|3995|Chocolate|1628822|682424|508332
-bsn-syntha6|4790|4790|3 Lbs.|SDL079942263|1487406|1208649
-bsn-syntha6|6999|5095|5 Lbs.|SDL081187859|1487407|1208649
-universal-nutrition-ultra-whey-pro|7725|6900|6.6 Lbs.|SDL143330756|1520368|1241131
-universal-nutrition-ultra-whey-pro|7000|5063|5 Lbs.|SDL142913036|1520376|1241131
-universal-nutrition-ultra-whey-pro|11500|9090|10 Lbs.|SDL143830180|1520399|1241131
+ultimate-nutrition-prostar-100-whey|11999|9599|Strawberry|SDL086376853|446997421|1710259655
+muscletech-nitrotech-4-lbs|8000|5298|Chocolate|SDL402591645|1013762|761909
+muscletech-nitrotech-4-lbs|6400|4862|Vanilla|SDL435025648|1013771|761909
+muscletech-nitrotech-4-lbs|8000|5210|Milk Chocolate|SDL666988405|931944818|761909
+muscletech-nitrotech-4-lbs|8000|5355|Cookies n Cream|SDL617820934|133521158|761909
+muscletech-nitrotech-4-lbs|6400|5280|Strawberry|SDL420954491|1013769|761909
+bsn-truemass|9000|9000|5.75 Lbs.|1852499|909530|673007
