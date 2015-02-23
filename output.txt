@@ -1,4 +1,4 @@
 product|price|SP|value|supc|id|prodid
 ssn-anabolic-muscle-builderchocolate-11|7620|5297|-|-|-|610228
-ssn-anabolic-muscle-builder-xxxlchocolate|1750|1193|-|-|-|610222
 ssn-whey-protein-chocolate-2|3040|2208|-|-|-|610210
+ssn-anabolic-muscle-builder-xxxlchocolate|1750|1193|-|-|-|610222
