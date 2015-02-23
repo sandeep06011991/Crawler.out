@@ -2,3 +2,16 @@ product|price|SP|value|supc|id|prodid
 ssn-anabolic-muscle-builderchocolate-11|7620|5297|-|-|-|610228
 ssn-whey-protein-chocolate-2|3040|2208|-|-|-|610210
 ssn-anabolic-muscle-builder-xxxlchocolate|1750|1193|-|-|-|610222
+bsn-syntha6|4790|4790|3 Lbs.|SDL079942263|1487406|1208649
+muscle-tech-100-premium-whey|6400|4050|Vanila|1731174|786007|590863
+ultimate-nutrition-prostar-100-whey|6749|5399|Chocolate Mint|SDL099369129|79542468|1205369031
+dymatize-elite-whey-2-lbs|3499|2549|Gourmet Vanilla|SDL365638648|718870100|1425762576
+muscletech-nitrotech-4-lbs|8000|5355|Cookies n Cream|SDL617820934|133521158|761909
+ultimate-nutrition-muscle-juice-revolution|6299|5354|Chocolate|SDL340864195|1421469016|1857831677
+muscle-tech-100-premium-whey|5950|4099|Deluxe Chocolate|SDL657000826|1000975982|590863
+muscle-tech-100-premium-whey|5950|4097|Chocolate|1731173|786006|590863
+muscletech-100-mass-gainer-12|6175|5566|Strawberry|SDL407642213|128978649|1412336
+ultimate-nutrition-muscle-juice-revolution|6299|5354|Banana|SDL332160143|1189173675|1857831677
+muscletech-nitrotech-4-lbs|8000|5210|Milk Chocolate|SDL666988405|931944818|761909
+muscletech-nitrotech-4-lbs|6400|5280|Strawberry|SDL420954491|1013769|761909
+ultimate-nutrition-muscle-juice-revolution|6299|5354|Strawberry|SDL337086842|1638608772|1857831677
