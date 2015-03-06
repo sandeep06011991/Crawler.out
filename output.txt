@@ -1,61 +1,61 @@
 product|price|SP|value|supc|id|prodid
-ssn-anabolic-muscle-builder-xxxlchocolate|1750|1193|-|-|-|610222
-ssn-whey-protein-chocolate-2|3040|2000|-|-|-|610210
 ssn-anabolic-muscle-builderchocolate-11|7620|5289|-|-|-|610228
-ultimate-nutrition-prostar-100-whey|11999|10679|Cookies \u0026 Cream|SDL088550575|2046718326|1710259655
-ultimate-nutrition-prostar-100-whey|11999|10679|Vanilla|SDL087093410|2013216204|1710259655
-ultimate-nutrition-prostar-100-whey|11999|10679|Strawberry|SDL086376853|446997421|1710259655
-ultimate-nutrition-muscle-juice-revolution|6299|5984|Vanilla|SDL327000937|952361533|1857831677
-ultimate-nutrition-muscle-juice-revolution|6299|5984|Cookies|SDL316320104|1690088813|1857831677
-bsn-syntha6|7200|4999|5 Lbs.|SDL081187859|1487407|1208649
+ssn-whey-protein-chocolate-2|3040|2000|-|-|-|610210
+ssn-anabolic-muscle-builder-xxxlchocolate|1750|1193|-|-|-|610222
 bsn-syntha6|4790|4790|3 Lbs.|SDL079942263|1487406|1208649
-dymatize-elite-whey-2-lbs|3449|2517|Strawberry|SDL377459267|1806602440|1425762576
+bsn-syntha6|7200|4999|5 Lbs.|SDL081187859|1487407|1208649
+ultimate-nutrition-muscle-juice-revolution|6299|5984|Cookies|SDL316320104|1690088813|1857831677
+ultimate-nutrition-muscle-juice-revolution|6299|5984|Strawberry|SDL337086842|1638608772|1857831677
 dymatize-super-mass-gainer-6|3475|3190|Vanilla|1782155|838284|623925
-ultimate-nutrition-prostar-100-whey|6749|6006|Rum Raisin|SDL098965140|2025903787|1205369031
-muscletech-nitrotech-4-lbs|8000|5298|Milk Chocolate|SDL666988405|931944818|761909
-universal-nutrition-ultra-whey-pro|11500|9399|10 Lbs.|SDL143830180|1520399|1241131
-on-100-whey-gold|3699|3450|2 Lbs. - Vanilla Ice Cream|SDL412361638|1349068|1383545
-universal-nutrition-gain-fast-3100|5800|3554|Chocolate|1628822|682424|508332
-dymatize-elite-whey-5-lbs|7199|5255|Chocolate fudge|SDL300579326|1674314295|623929
-dymatize-elite-whey-5-lbs|8249|5288|Gourmet Vanilla|SDL295240316|1018691719|623929
-dymatize-elite-whey-5-lbs|6800|5070|Cookies \u0026 Cream|SDL298070423|1656205650|623929
-dymatize-elite-whey-5-lbs|6799|5250|Strawberry Blast|SDL295625156|615127311|623929
-universal-nutrition-gain-fast-3100|5499|3890|Strawberry|SDL112679379|1741704635|508332
-dymatize-elite-whey-5-lbs|6399|5000|Chocolate|1782160|838289|623929
-universal-nutrition-gain-fast-3100|5800|4224|Vanilla|SDL114041554|149469052|508332
-universal-nutrition-ultra-whey-pro|7725|6900|6.6 Lbs.|SDL143330756|1520368|1241131
-universal-nutrition-ultra-whey-pro|7000|5050|5 Lbs.|SDL142913036|1520376|1241131
-ultimate-nutrition-prostar-100-whey|11999|10679|Chocolate|SDL084614639|82840856|1710259655
-on-100-whey-gold|3699|3699|2 Lbs. - Double Rich Chocolate|SDL405732219|1349078|1383545
-on-100-whey-gold|7699|6544|5 lbs. - Chocolate|SDL414426277|1349076|1383545
-on-100-whey-gold|7699|7499|5 lbs. - Strawberry|SDL417305538|1349070|1383545
-on-100-whey-gold|3699|3274|2 lbs. - Chocolate|SDL415451510|1349069|1383545
-ultimate-nutrition-prostar-100-whey|6749|6006|Coca-Mocha|SDL100058582|1939838192|1205369031
-ultimate-nutrition-prostar-100-whey|6749|6006|Natural|SDL101509154|1691549416|1205369031
-ultimate-nutrition-prostar-100-whey|6749|6006|Vanilla|SDL090130332|1642945150|1205369031
-ultimate-nutrition-prostar-100-whey|6749|6006|Cookies \u0026 Cream|SDL094684160|1627068270|1205369031
-ultimate-nutrition-prostar-100-whey|6749|6006|Banana|SDL095550443|1304126094|1205369031
-muscle-tech-100-premium-whey|6000|4450|Strawberry|SDL620051388|1657385572|590863
-ultimate-nutrition-prostar-100-whey|6749|6006|Chocolate|SDL086765894|852027911|1205369031
-ultimate-nutrition-prostar-100-whey|6749|6006|Strawberry|SDL091711801|1256655652|1205369031
-ultimate-nutrition-prostar-100-whey|6749|6006|Rasberry|SDL098368291|1002222393|1205369031
 ultimate-nutrition-prostar-100-whey|6749|6006|Chocolate Mint|SDL099369129|79542468|1205369031
-muscle-tech-100-premium-whey|6040|4400|Deluxe Chocolate|SDL657000826|1000975982|590863
-muscle-tech-100-premium-whey|5900|4729|Vanila|1731174|786007|590863
-muscle-tech-100-premium-whey|6200|4760|Chocolate|1731173|786006|590863
-muscletech-nitrotech-4-lbs|8000|5350|Cookies n Cream|SDL617820934|133521158|761909
-muscletech-nitrotech-4-lbs|8670|5600|Vanilla|SDL435025648|1013771|761909
-muscletech-nitrotech-4-lbs|6400|5280|Strawberry|SDL420954491|1013769|761909
-muscletech-nitrotech-4-lbs|8000|5286|Chocolate|SDL402591645|1013762|761909
-dymatize-super-mass-gainer-6|3475|2955|Chocolate|1782153|838282|623925
+ultimate-nutrition-prostar-100-whey|6749|6006|Rum Raisin|SDL098965140|2025903787|1205369031
+ultimate-nutrition-prostar-100-whey|6749|6006|Coca-Mocha|SDL100058582|1939838192|1205369031
+ultimate-nutrition-prostar-100-whey|11999|10679|Chocolate|SDL084614639|82840856|1710259655
+dymatize-elite-whey-5-lbs|7199|5255|Chocolate fudge|SDL300579326|1674314295|623929
 muscletech-100-mass-gainer-12|6175|5534|Strawberry|SDL407642213|128978649|1412336
 muscletech-100-mass-gainer-12|6175|5426|Vanilla|SDL407375452|95654687|1412336
 muscletech-100-mass-gainer-12|6175|5450|Chocolate|SDL265656804|1791752|1412336
-dymatize-elite-whey-2-lbs|3899|3509|Chocolate Fudge|SDL362898729|1118287220|1425762576
+ultimate-nutrition-muscle-juice-revolution|6299|5984|Vanilla|SDL327000937|952361533|1857831677
+muscletech-nitrotech-4-lbs|8000|5298|Milk Chocolate|SDL666988405|931944818|761909
+universal-nutrition-ultra-whey-pro|11500|9399|10 Lbs.|SDL143830180|1520399|1241131
+universal-nutrition-ultra-whey-pro|7000|5050|5 Lbs.|SDL142913036|1520376|1241131
+universal-nutrition-ultra-whey-pro|7725|6900|6.6 Lbs.|SDL143330756|1520368|1241131
+muscletech-nitrotech-4-lbs|8000|5350|Cookies n Cream|SDL617820934|133521158|761909
+muscletech-nitrotech-4-lbs|8670|5600|Vanilla|SDL435025648|1013771|761909
+muscletech-nitrotech-4-lbs|6400|5280|Strawberry|SDL420954491|1013769|761909
+universal-nutrition-gain-fast-3100|5499|3890|Strawberry|SDL112679379|1741704635|508332
+universal-nutrition-gain-fast-3100|5800|4224|Vanilla|SDL114041554|149469052|508332
+muscletech-nitrotech-4-lbs|8000|5286|Chocolate|SDL402591645|1013762|761909
+universal-nutrition-gain-fast-3100|5800|3554|Chocolate|1628822|682424|508332
+dymatize-elite-whey-5-lbs|6800|5070|Cookies \u0026 Cream|SDL298070423|1656205650|623929
+on-100-whey-gold|3699|3450|2 Lbs. - Vanilla Ice Cream|SDL412361638|1349068|1383545
+dymatize-elite-whey-5-lbs|8249|5288|Gourmet Vanilla|SDL295240316|1018691719|623929
+dymatize-elite-whey-5-lbs|6399|5000|Chocolate|1782160|838289|623929
+dymatize-elite-whey-2-lbs|3449|2517|Strawberry|SDL377459267|1806602440|1425762576
+ultimate-nutrition-prostar-100-whey|11999|10679|Cookies \u0026 Cream|SDL088550575|2046718326|1710259655
+on-100-whey-gold|3699|3699|2 Lbs. - Double Rich Chocolate|SDL405732219|1349078|1383545
+on-100-whey-gold|7699|7499|5 lbs. - Strawberry|SDL417305538|1349070|1383545
+dymatize-elite-whey-5-lbs|6799|5250|Strawberry Blast|SDL295625156|615127311|623929
+on-100-whey-gold|3699|3274|2 lbs. - Chocolate|SDL415451510|1349069|1383545
+ultimate-nutrition-prostar-100-whey|11999|10679|Vanilla|SDL087093410|2013216204|1710259655
+muscle-tech-100-premium-whey|6200|4760|Chocolate|1731173|786006|590863
+ultimate-nutrition-prostar-100-whey|11999|10679|Strawberry|SDL086376853|446997421|1710259655
+muscle-tech-100-premium-whey|6000|4450|Strawberry|SDL620051388|1657385572|590863
+on-100-whey-gold|7699|6544|5 lbs. - Chocolate|SDL414426277|1349076|1383545
+muscle-tech-100-premium-whey|5900|4729|Vanila|1731174|786007|590863
 dymatize-elite-whey-2-lbs|3899|2673|Gourmet Vanilla|SDL365638648|718870100|1425762576
+dymatize-elite-whey-2-lbs|3899|3509|Chocolate Fudge|SDL362898729|1118287220|1425762576
 dymatize-elite-whey-2-lbs|3899|2495|Chocolate|SDL361330178|382586177|1425762576
-dymatize-elite-whey-2-lbs|3899|2594|Rich Chocolate|SDL369826178|162914399|1425762576
-ultimate-nutrition-muscle-juice-revolution|6299|5984|Strawberry|SDL337086842|1638608772|1857831677
+ultimate-nutrition-prostar-100-whey|6749|6006|Natural|SDL101509154|1691549416|1205369031
+ultimate-nutrition-prostar-100-whey|6749|6006|Cookies \u0026 Cream|SDL094684160|1627068270|1205369031
+ultimate-nutrition-prostar-100-whey|6749|6006|Banana|SDL095550443|1304126094|1205369031
+muscle-tech-100-premium-whey|6040|4400|Deluxe Chocolate|SDL657000826|1000975982|590863
+ultimate-nutrition-prostar-100-whey|6749|6006|Strawberry|SDL091711801|1256655652|1205369031
+ultimate-nutrition-prostar-100-whey|6749|6006|Rasberry|SDL098368291|1002222393|1205369031
+ultimate-nutrition-prostar-100-whey|6749|6006|Chocolate|SDL086765894|852027911|1205369031
+dymatize-super-mass-gainer-6|2700|2700|Strawberry|1782154|838283|623925
 ultimate-nutrition-muscle-juice-revolution|6299|5984|Chocolate|SDL340864195|1421469016|1857831677
 ultimate-nutrition-muscle-juice-revolution|6299|5984|Banana|SDL332160143|1189173675|1857831677
-dymatize-super-mass-gainer-6|2700|2700|Strawberry|1782154|838283|623925
+dymatize-super-mass-gainer-6|3475|2955|Chocolate|1782153|838282|623925
+dymatize-elite-whey-2-lbs|3899|2594|Rich Chocolate|SDL369826178|162914399|1425762576
+ultimate-nutrition-prostar-100-whey|6749|6006|Vanilla|SDL090130332|1642945150|1205369031
